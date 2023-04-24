@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dafiti Oficial</title>
+</head>
+<body>
+        <h1>Dafiti Tienda de ropa</h1><br>
+        <p>Tienda de indumentaria online Directo de fabrica y sin minimo de compra Envios a toda la Argentina en 48 hs Mas de 450 articulo en stock permanente</p>
+        <br>
+        <p>remeras, zapatillas, jeans, y todo lo que buscas para estar a la moda</p>
+        <img 
+        src="ropa.jpg" width="1000" height="500" alt="ropa"> 
+        
+        <ul> <h2>contacto</h2>
+            <li>tel: 3364190514</li>
+            <li>mail: Dafiti_moda@hotmail.com</li>
+            <li>facebook: Dafiti Oficial</li>
+        </ul>
+    <a href="horariodeatencion.html">horario de atencion</a><br><br>
+    <table border="1">
+        <caption>lista de precios</caption>
+        <tr>
+            <td>remeras</td>
+            <td> desde 2500$</td>
+        </tr>
+        <tr> 
+            <td>buzos</td>
+            <td>desde 5000$</td>
+        </tr>
+        <tr>
+            <td>zapatillas</td>
+            <td>desde 10000$</td>
+        </tr>
+        <tr>
+            <td>jeans</td>
+            <td>desde 6000$</td>
+        </tr>
+        <tr>
+            <td>medias</td>
+            <td>desde 200$</td>
+        </tr>
+    </table><br><br>
+    <li> <b>ubicacion:</b> Nos encontramos en de la Nacion y Don Bosco</li>
+    
+</ul>
+    
+</body>
+</html>
